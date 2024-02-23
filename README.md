@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
+<h1 align="center">Hi 👋, <br/> I'm Shivanshu Mishra</h1>
+
 <h3 align="center">A passionate android developer from India. Throughout my tenure, I have contributed to projects spanning various industries, including e-commerce, education, and the restaurant sector. My proficiency extends to hands-on experience in Android development using programming languages such as Java and Kotlin, as well as expertise in Jetpack Compose. Additionally, I possess a comprehensive understanding of working with technologies such as Firebase, Git and Codeglass, among others.</h3>
+<p align="center"><img src="https://github.com/shivanshumishra/shivanshumishra/assets/64901443/3cb752c3-8dd2-46fd-8cf2-62ce3e39213b" alt="shivanshumishra" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshumishra&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshumishra" /> </p>
 
